@@ -8,13 +8,25 @@
 
 ## Project Title
 
+**Sample Hello World Repository**
+
 ## Description
+
+This is a practice repository to get used to using GitHub. I will practice using various markdown syntax and other basic writing and formatting within GitHub. 
 
 ## How to Run Program
 
 ## Files Used
 
 ## Additional Documentation
+
+Various Markdown syntax examples:
+- ~~This text was an accident~~
+- ***Very Important Text***
+- **This text is _very_ important**
+- A quote from me:
+> I like chicken
+
 
 ## Versioning
 
