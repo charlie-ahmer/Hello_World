@@ -6,19 +6,29 @@
 5. [_Additional Documentation_](https://github.com/charlie-ahmer/Hello_World/blob/main/README.md#additional-documentation)
 6. [_Versioning_](https://github.com/charlie-ahmer/Hello_World/blob/main/README.md#versioning)
 
-## Project Title
+# Project Title
 
-**Sample Hello World Repository**
+_Sample Hello World Repository_
 
-## Description
+# Description
 
-This is a practice repository to get used to using GitHub. I will practice using various markdown syntax and other basic writing and formatting within GitHub. 
+This is my first repository on GitHub. I will practice using various markdown syntax and other basic writing and formatting within GitHub. 
 
-## How to Run Program
+# How to Run Program
 
-## Files Used
+This is where I would explain the important details needed to run the program. This current repository doesn't have anything to run.
 
-## Additional Documentation
+
+# Files Used
+
+This is where I would list the files used in the project. I would also include relevant information like file names, where they're from, and other relevant information. Here is a table with some example files:
+
+| Link & Name | Where It Was Found |
+| ----------- | ----------- |
+| [Super Bowl History](https://www.pro-football-reference.com/super-bowl/) | Pro Football Reference |
+| [Global Retail e-commerce Sales 2014-2024](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/) | Statista |
+
+# Additional Documentation
 
 Various Markdown syntax examples:
 - ~~This text was an accident~~
@@ -28,6 +38,8 @@ Various Markdown syntax examples:
 > I like chicken
 
 
-## Versioning
+# Versioning
+
+This is the one and only version of this sample repository. If this was a larger project with many major changes throughout, I would document those changes here.
 
 
